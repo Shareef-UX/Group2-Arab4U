@@ -51,17 +51,17 @@ ListTile.
 
 *Activity Diagram*
 
-![activity diagram](https://github.com/Shareef-UX/Group2-Arab4U/blob/main/Activity%20Diagram.png)
+![activity diagram](https://github.com/Shareef-UX/Group2-Arab4U/blob/iMutaalim-App/usecase.jpeg)
 
 *Sequence Diagram*
 
-![sequence diagram](https://github.com/Shareef-UX/Group2-Arab4U/blob/main/Sequence%20Diagram.png)
+![sequence diagram](https://github.com/Shareef-UX/Group2-Arab4U/blob/iMutaalim-App/seq.jpeg)
   
 *Screen Navigation*
 
-![Screen nav1](https://github.com/Shareef-UX/Group2-Arab4U/blob/main/Screen%20Nav%201.png)
+![Screen nav1](https://github.com/Shareef-UX/Group2-Arab4U/blob/iMutaalim-App/NAV.jpg)
 
-![Screen nav2](https://github.com/Shareef-UX/Group2-Arab4U/blob/main/Screen%20Nav%202.png)
+![Screen nav2](https://github.com/Shareef-UX/Group2-Arab4U/blob/iMutaalim-App/NAV2.jpg)
  
 
 
