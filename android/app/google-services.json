@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "569040954002",
+    "project_id": "fypproject2021-88545",
+    "storage_bucket": "fypproject2021-88545.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569040954002:android:4b05171967de58d1f97c4b",
+        "android_client_info": {
+          "package_name": "com.example.siginsignup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569040954002-oobf0hju043pnr1ib04sokgm2tpgmr5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIBn1PESVED3qXUNM1HnuM9AwqhbbQuGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569040954002-oobf0hju043pnr1ib04sokgm2tpgmr5v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
